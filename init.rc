@@ -1,4 +1,5 @@
 on fs
+    mkdir /data/appcache
     mount_all /fstab.unknown
     swapon_all /fstab.unknown
 
